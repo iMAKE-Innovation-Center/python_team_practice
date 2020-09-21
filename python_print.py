@@ -1,4 +1,4 @@
-# these  examples will demonstrate how to print in Python
+# these examples will demonstrate how to print in Python
 #   it will also demonstrate how single and double quotes interact
 #   note: output will be in the comments before the code
 
